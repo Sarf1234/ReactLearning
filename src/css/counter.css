@@ -1,0 +1,14 @@
+.counter{
+    width: 60%;
+    height: 200px;
+    margin: 10px auto;
+    background: black;
+    color: whitesmoke;
+    padding: 10px;
+}
+
+button{
+    padding: 7px 12px;
+    margin-left: 10px;
+    margin-top: 20px;
+}
