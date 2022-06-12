@@ -4,6 +4,7 @@ import "./css/App.css"
 import CounterApp from './CounterApp';
 import RandomQuestos from './RandomQuetos';
 import UseEffect from './UseEffect';
+import Map from './Map'
 
 function App(){
     
@@ -13,6 +14,7 @@ function App(){
             <CounterApp />
             <RandomQuestos />
             <UseEffect />
+            <Map />
         </div>
     )
 }
