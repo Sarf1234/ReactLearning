@@ -5,6 +5,7 @@ import CounterApp from './CounterApp';
 import RandomQuestos from './RandomQuetos';
 import UseEffect from './UseEffect';
 import Map from './Map'
+import ClassBaseCoprops from './ClassBaseCoprops';
 
 function App(){
     
@@ -15,6 +16,7 @@ function App(){
             <RandomQuestos />
             <UseEffect />
             <Map />
+            <ClassBaseCoprops />
         </div>
     )
 }
