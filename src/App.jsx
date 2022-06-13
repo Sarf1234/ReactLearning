@@ -6,6 +6,9 @@ import RandomQuestos from './RandomQuetos';
 import UseEffect from './UseEffect';
 import Map from './Map'
 import ClassBaseCoprops from './ClassBaseCoprops';
+import TimeComponentDidMount from './TimeComponentDidMount'
+
+
 
 function App(){
     
@@ -17,6 +20,7 @@ function App(){
             <UseEffect />
             <Map />
             <ClassBaseCoprops />
+            <TimeComponentDidMount />
         </div>
     )
 }

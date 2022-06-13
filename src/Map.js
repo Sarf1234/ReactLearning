@@ -31,12 +31,6 @@ const arrayofObjects = [
          "margin" : "10px auto"
     }
 
-    const forpic = {
-         "display" : "flex",
-         "justify-content" : "center",
-         "align-items" : "center"
-    }
-
     return(
         <div style={newstyle}>
             <h1>Map in jsx</h1>
