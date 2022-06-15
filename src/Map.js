@@ -1,4 +1,5 @@
 import React from "react";
+import DistructureObject from './DistructureObject';
 
 
 function Map(){
@@ -57,6 +58,8 @@ const arrayofObjects = [
                      </div>
                  )
              })}
+
+           <DistructureObject />
 
         </div>
     )
