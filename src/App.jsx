@@ -7,6 +7,7 @@ import UseEffect from './UseEffect';
 import Map from './Map'
 import ClassBaseCoprops from './ClassBaseCoprops';
 import TimeComponentDidMount from './TimeComponentDidMount';
+import Todo from './Todo';
 
 
 
@@ -22,6 +23,7 @@ function App(){
             <Map />
             <ClassBaseCoprops />
             <TimeComponentDidMount />
+            <Todo />
             
         </div>
     )
