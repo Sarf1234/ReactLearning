@@ -24,7 +24,6 @@ function App(){
             <ClassBaseCoprops />
             <TimeComponentDidMount />
             <Todo />
-            
         </div>
     )
 }
